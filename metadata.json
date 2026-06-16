@@ -1,0 +1,6 @@
+{
+  "name": "BioPack",
+  "description": "Sustainable Consumer Packaged Goods (CPG) & Biodegradable Packaging Factory focusing on Mycelium, Sugarcane, and Bamboo alternatives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
